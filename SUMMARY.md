@@ -21,6 +21,8 @@
 ## Silo Faction
 
 * [Overview](silo-faction/overview.md)
+* [Create Faction](silo-faction/create-faction.md)
+* [Faction Games](silo-faction/faction-games.md)
 
 ## DAO Navigator
 

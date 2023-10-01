@@ -4,4 +4,4 @@ The Silo RDF (Retroactive DAO Formation) tool enables any existing ERC721 collec
 \
 It works by creating an airdrop for the NFTs within any ERC721 collection to claim both governance power and meme tokens.\
 \
-The RDF tool summons and Moloch DAO and generates a claim page for holders to claim their airdrops and coordinate around a shared treasury.
+The RDF tool summons a Moloch DAO and generates a claim page for holders to claim their airdrops and coordinate around a shared treasury.

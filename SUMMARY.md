@@ -3,7 +3,7 @@
 ## Getting Started
 
 * [Introduction](README.md)
-* [SiloNFTs 101](getting-started/silonfts-101.md)
+* [Silo Toolsets](getting-started/silo-toolsets.md)
 
 ## Silo Core
 
@@ -18,6 +18,10 @@
 * [Claim Airdrop](silo-rdf/claim-airdrop.md)
 * [Crowdfunding](silo-rdf/crowdfunding.md)
 
+## Silo Faction
+
+* [Overview](silo-faction/overview.md)
+
 ## DAO Navigator
 
 * [Overview](dao-navigator/overview.md)
@@ -27,11 +31,10 @@
 * [Treasury](dao-navigator/treasury.md)
 * [Onboarding](dao-navigator/onboarding.md)
 
-## Silo DAO
+## Silo Squad
 
-* [Overview](silo-dao/overview.md)
-* [SILO Token](silo-dao/silo-token.md)
-* [Incubator](silo-dao/incubator.md)
-* [Sustainability](silo-dao/sustainability.md)
-* [Ecosystem](silo-dao/ecosystem.md)
-* [Contributing](silo-dao/contributing.md)
+* [Overview](silo-squad/overview.md)
+* [Incubator](silo-squad/incubator.md)
+* [SILO Token](silo-squad/silo-token.md)
+* [Sustainability](silo-squad/sustainability.md)
+* [Contributing](silo-squad/contributing.md)

@@ -3,7 +3,7 @@
 ## Getting Started
 
 * [Introduction](README.md)
-* [SiloHaus 101](getting-started/silohaus-101.md)
+* [SiloNFTs 101](getting-started/silonfts-101.md)
 
 ## Silo Core
 

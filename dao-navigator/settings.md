@@ -8,8 +8,8 @@ Customize the DAOs settings to meet specific requirements. Adjust voting period,
 
 **New Offering:** determines the cost for a non-member to submit a proposal to the DAO. This prevents spam proposals.
 
-**Quorum:** determines the percentage of the NFT collection that must vote to approve a proposal.
+**Quorum:** determines the percentage of an NFT collection that must vote to approve a proposal.
 
 **Minimum Retention:** TODO
 
-**Sponsor Threshold:** determines the minimum requirement to move a proposal into the voting period.
+**Sponsor Threshold:** determines the minimum requirement of NFT power to move a proposal into the voting period.

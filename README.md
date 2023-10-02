@@ -1,6 +1,6 @@
 # Introduction
 
-_These docs are in active development by a squad of contributors known as Silo Squad._
+_These docs are in active development by Silo Squad, a decentralized cooperative experimenting with new mechanisms for coordination._
 
 Silo Squad is building an NFT product suite focused on providing unique and engaging experiences that drive deeper purpose for collections and their holders. The mission is to empower holders of both new and existing NFT collections with the tools and patterns to effectively coordinate around shared objectives.
 

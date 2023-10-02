@@ -14,6 +14,8 @@ When summoning a Silo RDF DAO there are the following fields:
 
 **Holder Allocation:** enter the amount of the total supply of your meme token that you'd like to allocate to the holder airdrop. The remaining amount will be minted into a Safe managed by the DAO.
 
+**Max Claims:** enter the amount of NFTs that can claim the airdrop. Ideally, the total supply of the collection should be entered, but it can be any number greater or less than too. This could be useful for more exclusive limited drops or for collections that are still mintable.
+
 ### NFT Collection Section
 
-**NFT Contract Address:** enter the contract address of the collection you'd like to airdrop. This will determine the total amount of NFTs within the collection and provide an even amount of governance power and meme tokens to each of the NFTs' TBAs.
+**NFT Contract Address:** enter the ERC721 contract address of the collection to be whitelisted for the airdrop.

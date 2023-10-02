@@ -1,3 +1,3 @@
 # Profile
 
-The profile page is the place for holders to manage their NFT memberships. Choose a main avatar to create proposals, vote, and delegate to.
+The profile page is where holders manage their NFTs within a siloDAO. Select a main Avatar to create proposals, vote, and delegate power to.

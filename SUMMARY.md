@@ -36,6 +36,7 @@
 
 ## Silo Squad
 
+* [Manifesto](silo-squad/manifesto.md)
 * [Overview](silo-squad/overview.md)
 * [Incubator](silo-squad/incubator.md)
 * [SILO Token](silo-squad/silo-token.md)

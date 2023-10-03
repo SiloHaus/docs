@@ -4,7 +4,9 @@ _These docs are in active development by Silo Squad, a decentralized cooperative
 
 Silo Squad is building an NFT product suite focused on providing unique and engaging experiences that drive deeper purpose for collections and their holders. The mission is to empower holders of both new and existing NFT collections with the tools and patterns to effectively coordinate around shared objectives.
 
-From zero-sum degens to positive sum squads ready for battle.
+<mark style="color:red;">From zero-sum degens to positive sum squads ready for battle.</mark>
+
+The solutions being built by Silo Squad are not for the scammers, grifters, and ruggers. Silo's tools create an unruggable experience for communities and honest actors to safely raise funds. There are major problems with the relationships between NFT collections, the teams/founders behind them, and those who choose to engage with them. Silo Squad is looking to drastically change this experience by not only equipping NFT communities with the ability to hold teams/founders accountable, but to provide those communities with the tools and autonomy to get shit done themselves.
 
 ### siloNFTs
 

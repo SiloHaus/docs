@@ -4,6 +4,7 @@
 
 * [Introduction](README.md)
 * [Silo Toolsets](getting-started/silo-toolsets.md)
+* [Terminology](getting-started/terminology.md)
 
 ## Silo Core
 
@@ -27,10 +28,10 @@
 ## DAO Navigator
 
 * [Overview](dao-navigator/overview.md)
+* [Treasury](dao-navigator/treasury.md)
+* [Proposals](dao-navigator/proposals.md)
 * [Profile](dao-navigator/profile.md)
 * [Settings](dao-navigator/settings.md)
-* [Proposals](dao-navigator/proposals.md)
-* [Treasury](dao-navigator/treasury.md)
 * [Onboarding](dao-navigator/onboarding.md)
 
 ## Silo Squad

@@ -12,7 +12,7 @@ When summoning a Silo RDF DAO there are the following fields:
 
 **Meme Token Supply:** enter the total supply of your meme token. This is a permanent fixed supply.&#x20;
 
-**Holder Allocation:** enter the amount of the total supply of your meme token that you'd like to allocate to the holder airdrop. The remaining amount will be minted into a Safe managed by the DAO.
+**Airdrop Allocation:** enter the amount of the total supply of your meme token that you'd like to allocate to the airdrop. The remaining amount will be minted into a Safe managed by the DAO.
 
 **Max Claims:** enter the amount of NFTs that can claim the airdrop. Ideally, the total supply of the collection should be entered, but it can be any number greater or less than too. This could be useful for more exclusive limited drops or for collections that are still mintable.
 

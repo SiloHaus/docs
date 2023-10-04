@@ -3,41 +3,32 @@
 ## Getting Started
 
 * [Introduction](README.md)
-* [Silo Toolsets](getting-started/silo-toolsets.md)
 * [Terminology](getting-started/terminology.md)
 
-## Silo Core
+## NFT DAO Tooling
 
-* [Overview](silo-core/overview.md)
-* [Create Collection](silo-core/create-collection.md)
-* [Sell Memberships](silo-core/sell-memberships.md)
-
-## Silo RDF
-
-* [Overview](silo-rdf/overview.md)
-* [Create Airdrop](silo-rdf/create-airdrop.md)
-* [Claim Airdrop](silo-rdf/claim-airdrop.md)
-* [Crowdfunding](silo-rdf/crowdfunding.md)
-
-## Silo Faction
-
-* [Overview](silo-faction/overview.md)
-* [Create Faction](silo-faction/create-faction.md)
-* [Faction Games](silo-faction/faction-games.md)
-
-## DAO Navigator
-
-* [Overview](dao-navigator/overview.md)
-* [Treasury](dao-navigator/treasury.md)
-* [Proposals](dao-navigator/proposals.md)
-* [Profile](dao-navigator/profile.md)
-* [Settings](dao-navigator/settings.md)
-* [Onboarding](dao-navigator/onboarding.md)
+* [Overview](nft-dao-tooling/overview.md)
+* [Sell NFT Memberships](nft-dao-tooling/sell-nft-memberships/README.md)
+  * [Create Collection](nft-dao-tooling/sell-nft-memberships/create-collection.md)
+  * [Sell Memberships](nft-dao-tooling/sell-nft-memberships/sell-memberships.md)
+* [Airdrop NFT Collections](nft-dao-tooling/airdrop-nft-collections/README.md)
+  * [Create Airdrop](nft-dao-tooling/airdrop-nft-collections/create-airdrop.md)
+  * [Claim Airdrop](nft-dao-tooling/airdrop-nft-collections/claim-airdrop.md)
+  * [Crowdfunding](nft-dao-tooling/airdrop-nft-collections/crowdfunding.md)
+* [Fractionalize NFTs](nft-dao-tooling/fractionalize-nfts/README.md)
+  * [Create Faction](nft-dao-tooling/fractionalize-nfts/create-faction.md)
+  * [Faction Games](nft-dao-tooling/fractionalize-nfts/faction-games.md)
+* [DAO Navigator](nft-dao-tooling/dao-navigator/README.md)
+  * [Treasury](nft-dao-tooling/dao-navigator/treasury.md)
+  * [Proposals](nft-dao-tooling/dao-navigator/proposals.md)
+  * [Profile](nft-dao-tooling/dao-navigator/profile.md)
+  * [Settings](nft-dao-tooling/dao-navigator/settings.md)
+  * [Onboarding](nft-dao-tooling/dao-navigator/onboarding.md)
 
 ## Silo Squad
 
-* [Manifesto](silo-squad/manifesto.md)
 * [Overview](silo-squad/overview.md)
+* [Manifesto](silo-squad/manifesto.md)
 * [Incubator](silo-squad/incubator.md)
 * [SILO Token](silo-squad/silo-token.md)
 * [Sustainability](silo-squad/sustainability.md)

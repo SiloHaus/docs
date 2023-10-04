@@ -2,7 +2,7 @@
 
 _These docs are in active development by Silo Squad._
 
-Silo Squad is building an NFT product suite focused on providing unique and engaging experiences that drive deeper purpose for collections and their holders. The mission is to empower holders of both new and existing NFT collections with the tools and patterns to effectively coordinate around shared objectives.
+Silo is a protocol for NFTs to securely govern shared treasuries. Built on the Silo Protocol, is a product suite focused on providing unique and engaging experiences that drive deeper purpose for NFT collections and their holders. The mission is to empower holders of both new and existing NFT collections with the tools and patterns to effectively coordinate around shared objectives.
 
 <mark style="color:red;">From zero-sum degens to positive sum squads ready for battle.</mark>
 
@@ -14,7 +14,7 @@ All Silo tools are built on or compatible with the ERC6551 standard, which provi
 
 ### siloDAOs
 
-Every siloNFT is connected to a siloDAO. Built on the DAOhaus protocol, powered by Moloch contracts, siloDAOs are powerful coordination tools for NFT holders to squad up and align on common goals for a collection as a whole. As a squad, the primary objective is to generate value for their collection by managing and growing a shared treasury to achieve sustainability for continued operations. All siloDAOs come equipped with a meme token generator, crowdfunding tools, and advanced proposal types to interface with any existing protocol or application on their native networks. Ultimately, it's up to each squad to decide on and execute strategies to achieve success.
+Every siloNFT is connected to powerful coordination tools for holders to squad up as a DAO and align on common goals for a collection as a whole. As a squad, the primary objective is to generate value for their collection by managing and growing a shared treasury to achieve sustainability for continued operations. All siloDAOs come equipped with a meme token generator, crowdfunding tools, and advanced proposal types to interface with any existing protocol or application on their native networks. Ultimately, it's up to each squad to decide on and execute strategies to achieve success.
 
 ### Silo Avatars
 

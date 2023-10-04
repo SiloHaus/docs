@@ -1,4 +1,8 @@
-# Overview
+---
+description: Fractionalize high value NFTs to govern them as a DAO.
+---
+
+# Silo Faction
 
 Silo Faction is an fractionalization tool designed for NFT owners to sell proportional rights over their high value NFTs, while providing governance tools to manage the NFTs within shared treasuries.
 

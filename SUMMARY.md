@@ -5,25 +5,25 @@
 * [Introduction](README.md)
 * [Terminology](getting-started/terminology.md)
 
-## Usecases
+## Silo Tools
 
-* [Overview](usecases/overview.md)
-* [Silo Core](usecases/silo-core/README.md)
-  * [Create Collection](usecases/silo-core/create-collection.md)
-  * [Sell Memberships](usecases/silo-core/sell-memberships.md)
-* [Silo RDF](usecases/silo-rdf/README.md)
-  * [Create Airdrop](usecases/silo-rdf/create-airdrop.md)
-  * [Claim Airdrop](usecases/silo-rdf/claim-airdrop.md)
-  * [Crowdfunding](usecases/silo-rdf/crowdfunding.md)
-* [Silo Faction](usecases/silo-faction/README.md)
-  * [Create Faction](usecases/silo-faction/create-faction.md)
-  * [Faction Games](usecases/silo-faction/faction-games.md)
-* [DAO Navigator](usecases/dao-navigator/README.md)
-  * [Treasury](usecases/dao-navigator/treasury.md)
-  * [Proposals](usecases/dao-navigator/proposals.md)
-  * [Profile](usecases/dao-navigator/profile.md)
-  * [Settings](usecases/dao-navigator/settings.md)
-  * [Onboarding](usecases/dao-navigator/onboarding.md)
+* [Overview](silo-tools/overview.md)
+* [Silo Core](silo-tools/silo-core/README.md)
+  * [Create Collection](silo-tools/silo-core/create-collection.md)
+  * [Sell Memberships](silo-tools/silo-core/sell-memberships.md)
+* [Silo RDF](silo-tools/silo-rdf/README.md)
+  * [Create Airdrop](silo-tools/silo-rdf/create-airdrop.md)
+  * [Claim Airdrop](silo-tools/silo-rdf/claim-airdrop.md)
+  * [Crowdfunding](silo-tools/silo-rdf/crowdfunding.md)
+* [Silo Faction](silo-tools/silo-faction/README.md)
+  * [Create Faction](silo-tools/silo-faction/create-faction.md)
+  * [Faction Games](silo-tools/silo-faction/faction-games.md)
+* [DAO Navigator](silo-tools/dao-navigator/README.md)
+  * [Treasury](silo-tools/dao-navigator/treasury.md)
+  * [Proposals](silo-tools/dao-navigator/proposals.md)
+  * [Profile](silo-tools/dao-navigator/profile.md)
+  * [Settings](silo-tools/dao-navigator/settings.md)
+  * [Onboarding](silo-tools/dao-navigator/onboarding.md)
 
 ## Silo Squad
 

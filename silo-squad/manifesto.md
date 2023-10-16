@@ -1,2 +1,3 @@
 # Manifesto
 
+Coming soon.

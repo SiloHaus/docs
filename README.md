@@ -6,8 +6,6 @@ Silo is a protocol for NFTs to securely govern shared treasuries. Built on the S
 
 <mark style="color:red;">From zero-sum degens to positive sum squads ready for battle.</mark>
 
-The solutions being built by Silo Squad are not for the scammers, grifters, and ruggers. Silo's tools create an unruggable experience for communities and honest actors to safely raise funds. There are major problems with the relationships between NFT collections, the teams/founders behind them, and those who choose to engage with them. Silo Squad is looking to drastically change this experience by not only equipping NFT communities with the ability to hold teams/founders accountable, but to provide those communities with the tools and autonomy to get shit done themselves.
-
 ### siloNFTs
 
 All Silo tools are built on or compatible with the ERC6551 standard, which provides NFTs with the ability to own and store assets within Token Bound Accounts (TBAs). Just as silos are known to store and secure various assets, siloNFTs can be thought of in a similar way. All siloNFTs hold governance tokens permanently bound to their TBAs and can store and manage just about any other asset a normal Ethereum wallet can.

@@ -2,7 +2,7 @@
 
 _These docs are in active development by Silo Squad._
 
-Silo's mission is to empower holders of both new and existing NFT collections with the tools and patterns to effectively coordinate and complete objectives as decentralized cooperatives.
+Silo's mission is to empower NFT collections with the tools and patterns to effectively coordinate and complete objectives as decentralized cooperatives.
 
 <mark style="color:red;">From zero-sum degens to positive sum squads ready for battle.</mark>
 

@@ -2,7 +2,7 @@
 
 _These docs are in active development by Silo Squad._
 
-Silo is a protocol for NFTs to securely govern shared treasuries. Built on the Silo Protocol, is a product suite focused on providing unique and engaging experiences that drive deeper purpose for NFT collections and their holders. The mission is to empower holders of both new and existing NFT collections with the tools and patterns to effectively coordinate around shared objectives.
+Silo's mission is to empower holders of both new and existing NFT collections with the tools and patterns to effectively coordinate and complete objectives as decentralized cooperatives.
 
 <mark style="color:red;">From zero-sum degens to positive sum squads ready for battle.</mark>
 
@@ -16,4 +16,4 @@ Every siloNFT is connected to powerful coordination tools for holders to squad u
 
 ### Silo Avatars
 
-The members of a siloDAO are actually the siloNFTs themselves, which provides power and abilities to the holder. As such, a siloNFT acts as an identity mechanism, or Avatar, for holders. Within a siloDAO, holders can easily manage their Avatars, delegate their power, and select an identity to operate under.
+The members of a siloDAO are actually the siloNFTs themselves, which provides power and abilities to the holder. As such, a siloNFT acts as an identity mechanism, or Avatar. Within a siloDAO, holders can easily manage their Avatars, delegate their power, and select an identity to operate under.

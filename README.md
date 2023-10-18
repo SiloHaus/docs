@@ -8,7 +8,7 @@ Silo's mission is to empower NFT collections with the tools and patterns to effe
 
 ### siloNFTs
 
-All Silo tools are built on or compatible with the ERC6551 standard, which provides NFTs with the ability to own and store assets within Token Bound Accounts (TBAs). Just as silos are known to store and secure various assets, siloNFTs can be thought of in a similar way. All siloNFTs hold governance tokens permanently bound to their TBAs and can store and manage just about any other asset a normal Ethereum wallet can.
+All Silo tools are compatible with the ERC6551 standard, which provides NFTs with the ability to own and store assets within Token Bound Accounts (TBAs). Just as silos are known to store and secure various assets, siloNFTs can be thought of in a similar way. All siloNFTs hold governance tokens permanently bound to their TBAs and can store and manage just about any other asset a normal Ethereum wallet can.
 
 ### siloDAOs
 

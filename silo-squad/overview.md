@@ -1,3 +1,3 @@
 # Overview
 
-Silo Squad is a decentralized cooperative that governs the Silo ecosystem.
+Silo Squad is a decentralized autonomous organization that governs the Silo ecosystem.

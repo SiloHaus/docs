@@ -22,6 +22,8 @@ The Silo.gg interface is built and maintained by the Silo Squad DAO and is open 
 
 Silo.gg is built by the decentralized cooperative known as Silo Squad. Consisting of community members, contributors and core members closely aligned to build the leading DAO tooling for NFT communities and their collections.
 
+If you'd like to contribute to what Silo Squad is building, join the community on [Discord](https://discord.gg/QpaXn6CFAN).
+
 ### Does Silo.gg charge any fees?
 
 It will always be free to create and airdrop collections. Fees will be implemented for NFT and meme token sales (TBD). 100% of the fees are distributed to the contributors and users of the Silo.gg platform.

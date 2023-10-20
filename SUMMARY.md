@@ -24,12 +24,3 @@
   * [Profile](tutorials/dao-navigator/profile.md)
   * [Settings](tutorials/dao-navigator/settings.md)
   * [Onboarding](tutorials/dao-navigator/onboarding.md)
-
-## Silo Squad
-
-* [Overview](silo-squad/overview.md)
-* [Manifesto](silo-squad/manifesto.md)
-* [Incubator](silo-squad/incubator.md)
-* [SILO Token](silo-squad/silo-token.md)
-* [Sustainability](silo-squad/sustainability.md)
-* [Contributing](silo-squad/contributing.md)
